@@ -28,7 +28,7 @@ you will NOT be able to make heads or tails out of your take-home coding exercis
 * News website
 * E-commerce site with shopping cart and login/logout functionality.
 * Blogging site
-* Choose an UI design from https://www.figma.com/community and try to replicate it using CSS. Your first design will take a long time. Stick with it till it is finished, even it it takes a month. You may even want to learn Material UI on the way too.
+* Choose an UI design from https://www.figma.com/community and try to replicate it using CSS. Your first design will take a long time. Stick with it till it is finished, even if it takes a month. You may even want to learn Material UI on the way too.
 * Video chat application with WebRTC
 * Text messaging application with Firebase backend.
 * Image carousel in React
