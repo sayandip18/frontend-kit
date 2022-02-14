@@ -21,3 +21,14 @@ JS works internally to solving algorithmic problems in JS, (ii) a React round wh
 you will NOT be able to make heads or tails out of your take-home coding exercise.
 
 10. Now, you are finally ready to take on any front-end interview.
+
+## Some projects you should definitely do on your own to improve your skills
+
+* A simple CRUD app in React
+* News website
+* E-commerce site with shopping cart and login/logout functionality.
+* Blogging site
+* Choose an UI design from https://www.figma.com/community and try to replicate it using CSS. Your first design will take a long time. Stick with it till it is finished, even it it takes a month. You may even want to learn Material UI on the way too.
+* Video chat application with WebRTC
+* Text messaging application with Firebase backend.
+* Image carousel in React
